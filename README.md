@@ -4,7 +4,7 @@
  
  
  :pray: I am SHUBHAM CHAUDHARY
- a Web Developer and ML enthusiast.
+ a ML enthusiast and Web Developer from Delhi India.
  
  
  # connect with me
