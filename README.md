@@ -3,8 +3,13 @@
  
  
  
- :pray: I am SHUBHAM CHAUDHARY
- a ML enthusiast and Web Developer from Delhi India.
+ :pray: Hii there,I'm SHUBHAM CHAUDHARY
+ a ML enthusiast and Web Developer from Delhi India.  
+ 
+ 
+ 
+ 
+![Program Image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9t7zG9cYwyItCBQX30c9jn2tgS2IaaQCd2w&usqp=CAU)   
  
  
  # connect with me
