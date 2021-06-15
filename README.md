@@ -1,8 +1,8 @@
  
  
  
- :pray: Hii there,I'm SHUBHAM CHAUDHARY
- a ML enthusiast and Web Developer from Delhi India.  
+# :pray: Hii there,I'm SHUBHAM CHAUDHARY
+# a Data Scientist enthusiast and Web Developer from Delhi India.  
  
  
  
