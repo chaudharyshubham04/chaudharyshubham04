@@ -1,7 +1,7 @@
  
  
  
-# :pray: Hii there,I'm SHUBHAM CHAUDHARY,a Coder, Data Scientist enthusiast and Web Developer from Delhi India.  
+# :pray: Hii there, I'm SHUBHAM CHAUDHARY,a Coder, Data Scientist enthusiast and Web Developer from Delhi India.  
  
  
  
@@ -12,6 +12,15 @@
  # connect with me
  
  [LinkedIn](https://www.linkedin.com/in/shubham-singh-chaudhary-71b085170/)
+ 
+ 
+ [Leetcode](https://leetcode.com/Chaudharyshubham04/)
+ 
+ 
+ [Geeks For Geeks](https://auth.geeksforgeeks.org/user/chaudhary_shubham/practice/)
+ 
+ 
+ [CodeChef](https://www.codechef.com/users/shubham634)
  
  
  [Kaggle](https://www.kaggle.com/chshubham)
