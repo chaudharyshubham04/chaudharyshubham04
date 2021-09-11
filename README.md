@@ -1,7 +1,7 @@
  
  
  
-# :pray: Hii there, I'm SHUBHAM CHAUDHARY,a Coder, Data Scientist enthusiast and Web Developer from Delhi India.  
+# :pray: Hii there, I'm SHUBHAM CHAUDHARY,a Coder,Full Stack Web Developer from Delhi India.  
  
  
  
